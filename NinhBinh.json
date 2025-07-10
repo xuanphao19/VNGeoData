@@ -1,0 +1,246 @@
+{
+  "provinces": [
+    {
+      "id": "01",
+      "name": "Hà Nội",
+      "type": "Thành phố",
+      "center": "Hà Nội"
+    },
+    {
+      "id": "02",
+      "name": "TP. Hồ Chí Minh",
+      "type": "Thành phố",
+      "center": "TP. HCM"
+    },
+    {
+      "id": "03",
+      "name": "Ninh Bình",
+      "type": "Tỉnh",
+      "center": "Ninh Bình"
+    },
+    {
+      "id": "04",
+      "name": "Đà Nẵng",
+      "type": "Thành phố",
+      "center": "Đà Nẵng"
+    },
+    {
+      "id": "05",
+      "name": "Hải Phòng",
+      "type": "Thành phố",
+      "center": "Hải Phòng"
+    },
+    {
+      "id": "06",
+      "name": "Cần Thơ",
+      "type": "Thành phố",
+      "center": "Cần Thơ"
+    },
+    {
+      "id": "07",
+      "name": "Bắc Ninh",
+      "type": "Tỉnh",
+      "center": "Bắc Ninh"
+    },
+    {
+      "id": "08",
+      "name": "Thanh Hóa",
+      "type": "Tỉnh",
+      "center": "Thanh Hóa"
+    },
+    {
+      "id": "09",
+      "name": "Nghệ An",
+      "type": "Tỉnh",
+      "center": "Vinh"
+    },
+    {
+      "id": "10",
+      "name": "Lâm Đồng",
+      "type": "Tỉnh",
+      "center": "Đà Lạt"
+    }
+  ],
+  "communes": [
+    {
+      "id": "01001",
+      "name": "Hoàn Kiếm",
+      "provinceId": "01",
+      "type": "Phường"
+    },
+    {
+      "id": "01002",
+      "name": "Ba Đình",
+      "provinceId": "01",
+      "type": "Phường"
+    },
+    {
+      "id": "01003",
+      "name": "Đống Đa",
+      "provinceId": "01",
+      "type": "Phường"
+    },
+    {
+      "id": "02001",
+      "name": "Quận 1",
+      "provinceId": "02",
+      "type": "Phường"
+    },
+    {
+      "id": "02002",
+      "name": "Quận 3",
+      "provinceId": "02",
+      "type": "Phường"
+    },
+    {
+      "id": "02003",
+      "name": "Quận 7",
+      "provinceId": "02",
+      "type": "Phường"
+    },
+    {
+      "id": "03001",
+      "name": "Tam Điệp",
+      "provinceId": "03",
+      "type": "Xã"
+    },
+    {
+      "id": "03002",
+      "name": "Nho Quan",
+      "provinceId": "03",
+      "type": "Xã"
+    },
+    {
+      "id": "03003",
+      "name": "Gia Viễn",
+      "provinceId": "03",
+      "type": "Xã"
+    },
+    {
+      "id": "04001",
+      "name": "Hải Châu",
+      "provinceId": "04",
+      "type": "Phường"
+    },
+    {
+      "id": "04002",
+      "name": "Thanh Khê",
+      "provinceId": "04",
+      "type": "Phường"
+    },
+    {
+      "id": "04003",
+      "name": "Sơn Trà",
+      "provinceId": "04",
+      "type": "Phường"
+    },
+    {
+      "id": "05001",
+      "name": "Hồng Bàng",
+      "provinceId": "05",
+      "type": "Phường"
+    },
+    {
+      "id": "05002",
+      "name": "Ngô Quyền",
+      "provinceId": "05",
+      "type": "Phường"
+    },
+    {
+      "id": "05003",
+      "name": "Lê Chân",
+      "provinceId": "05",
+      "type": "Phường"
+    },
+    {
+      "id": "06001",
+      "name": "Ninh Kiều",
+      "provinceId": "06",
+      "type": "Phường"
+    },
+    {
+      "id": "06002",
+      "name": "Cái Răng",
+      "provinceId": "06",
+      "type": "Phường"
+    },
+    {
+      "id": "06003",
+      "name": "Bình Thủy",
+      "provinceId": "06",
+      "type": "Phường"
+    },
+    {
+      "id": "07001",
+      "name": "Từ Sơn",
+      "provinceId": "07",
+      "type": "Phường"
+    },
+    {
+      "id": "07002",
+      "name": "Tiên Du",
+      "provinceId": "07",
+      "type": "Xã"
+    },
+    {
+      "id": "07003",
+      "name": "Quế Võ",
+      "provinceId": "07",
+      "type": "Xã"
+    },
+    {
+      "id": "08001",
+      "name": "Sầm Sơn",
+      "provinceId": "08",
+      "type": "Phường"
+    },
+    {
+      "id": "08002",
+      "name": "Bỉm Sơn",
+      "provinceId": "08",
+      "type": "Phường"
+    },
+    {
+      "id": "08003",
+      "name": "Hoằng Hóa",
+      "provinceId": "08",
+      "type": "Xã"
+    },
+    {
+      "id": "09001",
+      "name": "Cửa Lò",
+      "provinceId": "09",
+      "type": "Phường"
+    },
+    {
+      "id": "09002",
+      "name": "Hoàng Mai",
+      "provinceId": "09",
+      "type": "Phường"
+    },
+    {
+      "id": "09003",
+      "name": "Quỳnh Lưu",
+      "provinceId": "09",
+      "type": "Xã"
+    },
+    {
+      "id": "10001",
+      "name": "Bảo Lộc",
+      "provinceId": "10",
+      "type": "Phường"
+    },
+    {
+      "id": "10002",
+      "name": "Di Linh",
+      "provinceId": "10",
+      "type": "Xã"
+    },
+    {
+      "id": "10003",
+      "name": "Đà Lạt",
+      "provinceId": "10",
+      "type": "Phường"
+    }
+  ]
+}

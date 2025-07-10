@@ -1,10 +1,12 @@
 async function loadData() {
   try {
     const response = await fetch(
-      "https://raw.githubusercontent.com/xuanphao19/VNGeoData/main/src/data/administrativeUnits.json",
+      "https://raw.githubusercontent.com/xuanphao19/VNGeoData/main/docs/data/administrativeUnits.json",
     );
     if (!response.ok) throw new Error("Dữ liệu không tải được. Vui lòng kiểm tra lại.");
     const data = await response.json();
+
+    console.log("data = await", data);
 
     const provinceSelect = document.getElementById("provinceSelect");
     const communeItems = document.getElementById("communeItems");
@@ -42,3 +44,4 @@ async function loadData() {
 }
 
 document.addEventListener("DOMContentLoaded", loadData);
+
