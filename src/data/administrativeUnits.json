@@ -1,0 +1,42 @@
+{
+  "provinces": [
+    {
+      "id": "01",
+      "name": "Hà Nội",
+      "type": "Thành phố",
+      "center": "Hà Nội"
+    },
+    {
+      "id": "02",
+      "name": "TP. Hồ Chí Minh",
+      "type": "Thành phố",
+      "center": "TP. HCM"
+    },
+    {
+      "id": "03",
+      "name": "Ninh Bình",
+      "type": "Tỉnh",
+      "center": "Ninh Bình"
+    }
+  ],
+  "communes": [
+    {
+      "id": "01001",
+      "name": "Hoàn Kiếm",
+      "provinceId": "01",
+      "type": "Phường"
+    },
+    {
+      "id": "02001",
+      "name": "Quận 1",
+      "provinceId": "02",
+      "type": "Phường"
+    },
+    {
+      "id": "03001",
+      "name": "Tam Điệp",
+      "provinceId": "03",
+      "type": "Xã"
+    }
+  ]
+}
